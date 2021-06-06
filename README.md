@@ -23,8 +23,10 @@ Caso o administrador necessite acompanhar visualmente as mensagens emitidas pelo
 O script foi homologado para a versão 6.47.9 ou posterior do RouterOS.
 
 ## Como usar:
-    
-Primeiramente deve ser baixado uma cópia do script **kstrosmkpppoe** e armazenado em **SYSTEM -> Scripts**, o administrador deve criar qualquer nome para o novo script, mas deve tomar nota pois esse nome será usado em posterior.
+
+
+
+Primeiramente deve ser baixado uma cópia do script [**kstrosmkpppoe**](https://github.com/jayroncastro/kstrosmkpppoe/blob/master/kstrosmkpppoe.rsc) e armazenado em **SYSTEM -> Scripts**, o administrador deve criar qualquer nome para o novo script, mas deve tomar nota pois esse nome será usado em posterior.
 
 Após criar o script o administrador deverá alterar as variáveis de controle conforme sua necessidade.
 
