@@ -54,3 +54,11 @@ O uso desse script é recomendado em cenários que usam mais de um link, pois ca
 ## Contato
 
 Caso seja encontrato algum erro de execução no script ou mesmo para melhorias, favor informar o desenvolvedor pelo e-mail jacastro@kstros.com para que as correções ou melhorias sejam aplicadas.
+
+## Sobre
+
+Sou um entusiasta em tecnologia, formado em elétrica, engenheiro de redes e analista de sistemas, consultor Mikrotik certificado e programador nas horas vagas.
+
+Nome: Jayron Castro<br>
+[Consultor Mikrotik](https://mikrotik.com/consultants)<br>
+Whatsapp: (85)981623076
